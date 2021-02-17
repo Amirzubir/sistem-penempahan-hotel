@@ -1,0 +1,4 @@
+Name : lolo
+Total price Per Night : 100.00
+Final Price With Tax: 106.00
+Total Grand Price:100.00

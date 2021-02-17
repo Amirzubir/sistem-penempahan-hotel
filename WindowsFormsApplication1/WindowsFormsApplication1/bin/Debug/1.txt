@@ -1,0 +1,4 @@
+Name : q
+Total price Per Night : 275.00
+Final Price With Tax: 291.50
+Total Grand Price:247.50

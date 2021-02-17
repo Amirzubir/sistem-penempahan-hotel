@@ -1,0 +1,4 @@
+Name : 1
+Total price Per Night : 75.00
+Final Price With Tax: 79.50
+Total Grand Price:System.Windows.Forms.TextBox, Text: 75.00

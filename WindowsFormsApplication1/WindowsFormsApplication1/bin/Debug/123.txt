@@ -1,0 +1,4 @@
+Name : faris
+Total price Per Night : 450.00
+Final Price With Tax: 477.00
+Total Grand Price:405.00

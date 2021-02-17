@@ -1,0 +1,4 @@
+Name : q11
+Total price Per Night : 75.00
+Final Price With Tax: 79.50
+Total Grand Price:75.00

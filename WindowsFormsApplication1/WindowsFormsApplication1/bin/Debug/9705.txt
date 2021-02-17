@@ -1,0 +1,4 @@
+Name : amir
+Total price Per Night : 200.00
+Final Price With Tax: 212.00
+Total Grand Price:180.00
